@@ -5,7 +5,7 @@ account: bleckning
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11838661
-bundleId: 8530393
+bundleId: 8538402
 url: https://bleckning.shinyapps.io/CYDRP_Lexis/
 version: 1
 asMultiple: FALSE
